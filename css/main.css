@@ -1107,8 +1107,7 @@ header .top-bar {
 	min-height: 66px;
 	width: 100%;
 	position: absolute;
-	/* left: 90px; */
-
+	left: 0;
 	top: 0;
 }
 header .logo {
