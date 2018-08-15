@@ -1279,7 +1279,7 @@ header .logo a {
  * header styles
  * --------------------------------------------------------------- 
  */
-@media only screen and (max-width:1024px) {
+/* @media only screen and (max-width:1024px) {
 	header .top-bar {
 		left: 60px;
 	}
@@ -1298,7 +1298,7 @@ header .logo a {
 	header .top-bar {
 		left: 25px;
 	}
-}
+} */
 
 
 /** 
